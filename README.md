@@ -7,3 +7,7 @@ That in mind, as I was focused on demonstrating the main concepts, so input chec
 I'll fix these problems if I revisit these projects, however for now they will remain as is.
 
 -Nigel Seecharan
+
+# Notes
+
+projects 001 - 004 are all command line applications, but the remaining projects have interactive user interfaces typical of modern applications. Some Interfaces vary in quality.
