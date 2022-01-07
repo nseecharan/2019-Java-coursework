@@ -10,4 +10,4 @@ I'll fix these problems if I revisit these projects, however for now they will r
 
 # Notes
 
-projects 001 - 004 are all command line applications, but the remaining projects have interactive user interfaces typical of modern applications. Some Interfaces vary in quality.
+projects 001 - 004 are strictly command line applications, but the remaining projects have some bundled applications with graphical user interfaces. Some Interfaces vary in quality.
