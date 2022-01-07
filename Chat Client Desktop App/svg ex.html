@@ -1,0 +1,41 @@
+<head>
+<h3>SVG Shape Creation Example for JavaFX "-fx-shape" CSS Property</h3>
+</head>
+<body>
+<div>
+<h3>Figure 1</h3>
+<?xml version="1.0" standalone="no"?>
+<svg width="4cm" height="4cm" viewBox="0 0 400 400"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <title>Example triangle01- simple example of a 'path'</title>
+  <desc>A path that draws a triangle</desc>
+  <rect x="1" y="1" width="398" height="398"
+        fill="none" stroke="blue" />
+  <path d="M 100 100 L 300 100 L 200 300 z"
+        fill="red" stroke="blue" stroke-width="3" />
+</svg>
+</div>
+<p>
+The top triangle starts from the left as "M 100 100 L 300 100 L 200 300 z"
+<br>where the first number value for each point (M, L) is X and the second is Y.
+<br>The small "z" represents the closing or end of the shape.
+</p>
+<div>
+<h3>Figure 2</h3>
+<?xml version="1.0" standalone="no"?>
+<svg width="4cm" height="4cm" viewBox="0 0 400 400"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <title>Example triangle01- simple example of a 'path'</title>
+  <desc>A path that draws a triangle</desc>
+  <rect x="1" y="1" width="398" height="398"
+        fill="none" stroke="blue" />
+  <path d="M 100 300 L 300 300 L 200 100 z"
+        fill="red" stroke="blue" stroke-width="3" />
+</svg>
+</div>
+</body>
+<footer>
+<br>
+<div>Code from https://www.w3.org/TR/SVG/paths.html#PathElement</div>
+</footer>
+

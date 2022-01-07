@@ -1,0 +1,30 @@
+new: hi
+rin: hi
+rin: hello
+Fiona: howdy
+Bill: hi Jim
+Jim: Hey Bill! Sup man?
+Chris: What up boys?
+Bill: Yo Chris!
+Fey: Lots of activity.
+Henry: Yeah people really love this simple chat app!
+Henry: You good Fey?
+Fey: Yup, just playing games and enjoying he holidays.
+Tom: Hello hello hello? Sheila you here?
+Sheila: Hi Tom! How's New York?
+Rin: Hello everyone!
+Phil: Hi Rin! What have you been up to?
+Rin: Just working on the garden. Trying to grow tomatoes.
+Phil: That's right! You love tomatoes!
+Rin: Yup! I enjoy making pasta sauce!
+Rin: I might try making a meat sauce with them this time.
+Phil: Nice!
+Rin: What have you been up to lately?
+Phil: Eh, same old. Just trying to finish my fantasy book. It will be the next Lord of the Rings one day!... When it's done that is haha!
+Rin: Loool
+Rin: How many chapters are you planning on having?
+Luke: What up ppl?
+Jack: That you Luke? Long time!
+Jack: Whatcha up to?
+Luke: Been building my bike. Starting to look real sick!
+Jack: Gonna be real nice once it's on the open road huh?
