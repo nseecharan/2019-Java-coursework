@@ -5,4 +5,4 @@ You may run the ClientFx file as many times as you wish to open multiple chat wi
 
 Themes
 =================================
-Add your own 500 X 600 png images to the image folder, and number them sequentially to be able to set the background of the chat window with your images. You may then cycle through each image to set your preferred desired background.
+Add up to 11 of your own 500 X 600 png images to the image folder, and number them sequentially (1 - 11) to be able to set the background of the chat window with your images. You may then cycle through each image to set your preferred desired background.
